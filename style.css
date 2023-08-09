@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+main{
+    font-family: 'Inter', sans-serif;
+}
+.section_topdiv{
+    border: 2px solid black;
+    padding: 20px;
+}
+
+a{
+    color: black;
+}
